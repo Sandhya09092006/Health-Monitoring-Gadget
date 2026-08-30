@@ -1,5 +1,5 @@
 # Health-Monitoring-Gadget
-ESP32-based health monitoring gadget for elderly people with temperature,heart rate,fall detection,battery monitoring and emergency alert
+ESP32-based health monitoring wearable gadget for elderly people with temperature,heart rate,fall detection,battery monitoring and emergency alert
 ## 👥 Team / Contributors
 
 ### [SANDHYA.A]
