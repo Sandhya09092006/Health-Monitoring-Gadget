@@ -10,7 +10,7 @@ For demonstration purposes in the simulation:
 - **Push Button (SOS)** – Used as an SOS emergency button to trigger emergency alerts through Telegram.
 - **Potentiometer** – Used to simulate battery-level variation.
 - **DS18B20** – Used for body-temperature monitoring.
-- **MPU6050** – Used for fall-detection simulation.
+- **MPU6050**(accelerometer+gyroscope) – Used for fall-detection simulation.
 - **Buzzer** – Used to provide a local audible alert during emergency or warning conditions.
   
 
